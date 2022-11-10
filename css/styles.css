@@ -18,3 +18,18 @@ body {
 #post h1 {
     color: deeppink;
 }
+
+#header {
+    color: white;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    background-color: blue;
+    font-weight: bold;
+    padding: 1em;
+    margin: 0;
+}
+
+#header span {
+    padding: 0 0 0 1em;
+    font-weight: bold;
+    font-size: 0.8em;
+} 
