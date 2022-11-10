@@ -1,6 +1,20 @@
 body {
-    color: deeppink;
+    color: #111;
     font-family: "Arial";
-    font-weight: bold;
+    font-size: 16px;
     text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 3px solid #DDD;
+    margin: 0 auto;
+}
+
+#post h1 {
+    color: deeppink;
 }
